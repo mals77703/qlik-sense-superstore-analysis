@@ -2,7 +2,7 @@
 
 This project involves the creation of an interactive Qlik Sense dashboard to analyze sales performance data for a retail "Superstore". The dashboard provides a comprehensive overview of sales metrics, profit margins, customer distribution, product categories, and sales trends over time, enabling stakeholders to make data-driven decisions.
 
-Key Features:
+Features of the project:
 
 -Sales and Profit by State:
 
